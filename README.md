@@ -25,3 +25,9 @@ Architecture of DCAE, which constitutes two mirrored subparts: the discriminitiv
 Index-specific feature extraction (first two layers) and regression (third layer) for multiple cardiac indices estimation.
 
 ![alt text](https://github.com/alejandrodebus/IndicesNet/blob/master/imgs_architecture/conv_reg.png)
+
+### Configuration of the Network
+
+The following table shows the configuration of the network
+
+![alt text](https://github.com/alejandrodebus/IndicesNet/blob/master/imgs_architecture/network_config.png)
