@@ -1,3 +1,9 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
+__author__ = "Alejandro Debus"
+__email__ = "aledebus@gmail.com"
+
 import torch
 import pickle
 
