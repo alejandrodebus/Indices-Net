@@ -5,9 +5,9 @@ https://arxiv.org/abs/1705.09307
 
 Own implementation of the Indices-Net model proposed in [Xue et al, 2017]. This code was written as a baseline to compare with my own model presented in STACOM 2018 [Debus and Ferrante, 2018]. If you found this code useful in your publication, **please cite both works as follows**:
 
-[Debus and Ferrante, 2018] " Left ventricle quantification through spatio-temporal CNNs" Alejandro Debus and Enzo Ferrante. MICCAI STACOM 2018. https://arxiv.org/abs/1808.07967
+**[Debus and Ferrante, 2018]** " Left ventricle quantification through spatio-temporal CNNs" Alejandro Debus and Enzo Ferrante. MICCAI STACOM 2018. https://arxiv.org/abs/1808.07967
 
-[Xue et al, 2017] "Direct Multitype Cardiac Indices Estimation via Joint Representation and Regression Learning." Wufeng Xue, Ali Islam, Mousumi Bhaduri, Shuo Li. IEEE TMI 2017. https://arxiv.org/abs/1705.09307
+**[Xue et al, 2017]** "Direct Multitype Cardiac Indices Estimation via Joint Representation and Regression Learning." Wufeng Xue, Ali Islam, Mousumi Bhaduri, Shuo Li. IEEE TMI 2017. https://arxiv.org/abs/1705.09307
 
 
 ## General architecture of Indices-Net ##
